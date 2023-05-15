@@ -1,4 +1,4 @@
-# RJ's Project Portfolio
+# 🛠 RJ's Project Portfolio
 
 Explore my data projects and learn about my approach to solving real-world problems with data analysis.
 
