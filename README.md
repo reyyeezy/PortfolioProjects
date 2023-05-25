@@ -3,7 +3,7 @@
 Explore my data projects and learn about my approach to solving real-world problems with data analysis.
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
+- [Excel](#Excel)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
