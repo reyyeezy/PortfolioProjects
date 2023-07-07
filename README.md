@@ -16,7 +16,7 @@ Explore my data projects and learn about my approach to solving real-world probl
 |---|---|
 |🚲 [Bike Sales Dashboard](https://github.com/reyyeezy/bike-sales-dashboard-excel)| Excel Dashboard highlighting customer demographics and purchasing behavior, including average income, age, and commute distance.|
 |🧼 [Data Science Job Listings](https://github.com/reyyeezy/ds_job_listing_excel)| Excel Data Cleaning, Manipulation & Transformation.
-
+|👟 [Financial Warehouse Data](https://github.com/reyyeezy/warehouse_financial_data) | Excel Analysis; Pivot Tables, Slicers, Filters |
 
 ***
 
