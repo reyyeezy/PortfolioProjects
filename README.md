@@ -33,6 +33,7 @@ Explore my data projects and learn about my approach to solving real-world probl
 
 | Project Link | Project Description | 
 |---|---|
+|🏘 [King County House Sales Dashboard](https://public.tableau.com/app/profile/jeffrey.david/viz/KingCountyHouseSales_16900698016690/KingCountyHouseSales) | Visualize the House Sales in King County, Seattle. Daily average house sales, Distribution of prices, bedrooms, bathrooms. Filter dates and house features.
 |💉 [COVID-19 Data Exploration](https://public.tableau.com/app/profile/jeffrey.david/viz/COVID-19Dashboard_16739315695520/Dashboard1) | Exploring COVID-19 death, vaccination, and cases through SQL. Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types|
 |🎬 [Hollywood's most Profitable Films](https://public.tableau.com/app/profile/jeffrey.david/viz/HollywoodsMostProfitable_16803245086600/Dashboard1) | Visualize the top 74 Films in Hollywood. Uncover trends between Audience Score, Film Genre, Worldwide gross.
 
